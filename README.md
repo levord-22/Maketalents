@@ -1,5 +1,9 @@
 # Maketalents
 
+[![Watch te video](https://github.com/levord-22/Maketalents/blob/main/How_It_Works_2.gif)](https://github.com/levord-22/Maketalents/blob/main/How_It_Works_2.gif)
+
+
+
 Предварительно необходимо иметь/завести почтовый ящик в google (или
 yandex, если будут проблемы с автоматизацией). Отправить на этот ящик
 несколько писем с темой «Simbirsoft Тестовое задание» с любым содержимым
